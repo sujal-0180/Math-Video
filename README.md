@@ -23,4 +23,3 @@ manim -pqh _Code/gaussian_elimination.py GaussianEliminationFull
 ## Credits & AI Disclosure
 - **Narration & Mathematical Presentation:** P. Sujal (URN: E25B070607)
 - **Animation Engine:** Manim Community Edition (Python)
-- **AI Assistance Disclosure:** AI tools were used to assist with script structuring, Manim animation code generation, and audio-visual synchronization.
