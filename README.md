@@ -5,6 +5,7 @@
 - **Course:** Linear Algebra and Calculus (M3)
 - **Topic:** Gaussian Elimination (3×3 Linear System, Elementary Row Operations, Row-Echelon Form, and 3D Plane Geometry)
 - **Format:** 1080p 16:9 MP4 (`_Video.mp4`), 60 fps
+- **Drive link of the video:** https://drive.google.com/drive/folders/1DflLEAuj6Y1o8-E6-oxZ_rEvgiKwdL5A
 
 ## Repository Structure
 - `_Video.mp4` — Final rendered 1080p animation video with synced voice-over
