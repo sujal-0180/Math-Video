@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+media/
+build/
+.DS_Store
+assets/voiceover_16k.wav
