@@ -1,6 +1,6 @@
 # M3 Internal Assessment — Animation Video: Gaussian Elimination
 
-- **Student Name:** P. Sujal
+- **Student Name:** Perumalla Sujal
 - **URN / Student ID:** E25B070607
 - **Course:** Linear Algebra and Calculus (M3)
 - **Topic:** Gaussian Elimination (3×3 Linear System, Elementary Row Operations, Row-Echelon Form, and 3D Plane Geometry)
@@ -21,5 +21,5 @@ manim -pqh _Code/gaussian_elimination.py GaussianEliminationFull
 ```
 
 ## Credits & AI Disclosure
-- **Narration & Mathematical Presentation:** P. Sujal (URN: E25B070607)
+- **Narration & Mathematical Presentation:** Perumalla Sujal (URN: E25B070607)
 - **Animation Engine:** Manim Community Edition (Python)
